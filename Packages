@@ -1,6 +1,6 @@
 Package: ai.akemi.appsyncunified
 Version: 116.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: Karen/あけみ <karen@akemi.ai>
 Installed-Size: 668
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
@@ -21,7 +21,7 @@ Name: AppSync Unified
 
 Package: com.cannathea.afc2d-arm64
 Version: 1.1.5-1
-Architecture: iphoneos-arm iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 686
 Pre-Depends: dpkg (>= 1.14.25-8)
