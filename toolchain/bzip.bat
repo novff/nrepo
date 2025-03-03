@@ -1,1 +1,1 @@
-wsl bzip2 -k -f ../Packages
+wsl bzip2 ../Packages
