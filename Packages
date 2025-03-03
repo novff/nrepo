@@ -12,7 +12,7 @@ Size: 49472
 MD5sum: d6a31911e878b83e47c6525fa29ecef1
 SHA1: d00d2667c0d5421dddfc70a2734f1d63b972a535
 SHA256: 2bdaac72a6d1b006309b7dd28f51b1e3d351d3d8758fc9f08ca670f1d71eb382
-Section: Tweaks
+Section: System
 Homepage: https://cydia.akemi.ai/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
@@ -21,7 +21,7 @@ Name: AppSync Unified
 
 Package: com.cannathea.afc2d-arm64
 Version: 1.1.5-1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm iphoneos-arm64
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 686
 Pre-Depends: dpkg (>= 1.14.25-8)
